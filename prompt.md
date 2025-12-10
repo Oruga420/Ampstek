@@ -1,0 +1,1 @@
+uses agents.md for instructions use Ampstek_Resume for the resume

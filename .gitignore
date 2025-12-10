@@ -1,0 +1,10 @@
+node_modules
+.next
+out
+.vercel
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json.gz
+*.log
+.DS_Store
